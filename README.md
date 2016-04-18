@@ -1,7 +1,6 @@
 # Mizumisiki
 
 <img src="https://qiita-image-store.s3.amazonaws.com/0/96554/feffc08a-4c92-1888-1566-50aa0fda98e7.png" width="300">  
-  
 Facebook Messenger Platform で作成した念の系統診断BOT。  
 詳しくは以下をご確認下さい。  
   
