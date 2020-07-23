@@ -12,7 +12,4 @@ Facebook Messenger Platform で作成した念の系統診断BOT。
 <img src="https://qiita-image-store.s3.amazonaws.com/0/96554/a0dab6d0-e236-fae0-182a-404343b2fc37.png" width="300">  
 <img src="https://qiita-image-store.s3.amazonaws.com/0/96554/7d4fd11a-1df0-0147-d625-0b073851332e.png" width="300">  
 <img src="https://qiita-image-store.s3.amazonaws.com/0/96554/c04ff8c3-0db7-90ce-9996-f244c7c61152.png" width="300">  
-<img src="https://qiita-image-store.s3.amazonaws.com/0/96554/6b68bca2-6029-2a75-8547-711bc72d7005.png" width="300">  
-
-## Author
-http://okamura0510.jp/
+<img src="https://qiita-image-store.s3.amazonaws.com/0/96554/6b68bca2-6029-2a75-8547-711bc72d7005.png" width="300">
